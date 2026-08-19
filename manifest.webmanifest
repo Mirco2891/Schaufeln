@@ -1,0 +1,26 @@
+{
+  "id": "/Schaufeln/",
+  "name": "Schaufeln – Rezepte & Einkauf",
+  "short_name": "Schaufeln",
+  "start_url": "/Schaufeln/",
+  "scope": "/Schaufeln/",
+  "display": "standalone",
+  "background_color": "#FBFAF6",
+  "theme_color": "#2F6F55",
+  "icons": [
+    {
+      "src": "/Schaufeln/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ],
+  "share_target": {
+    "action": "/Schaufeln/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "sharedUrl"
+    }
+  }
+}
